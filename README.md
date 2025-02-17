@@ -1,4 +1,5 @@
 # Exploring GoPhish:Your Gateway to Phishing Simulations
+![Image](https://github.com/user-attachments/assets/47e3d42a-9f04-45d3-9599-e63a42820955)
 Some very basic configurations and templates to provide clean layouts usable in [GoPhish](https://github.com/gophish/gophish), an open-source phishing toolkit. These layouts provided will also work with any other phising service as well, though they have only been tested in GoPhish.
 
 # 🌐 GoPhish - Open-Source Phishing Framework
